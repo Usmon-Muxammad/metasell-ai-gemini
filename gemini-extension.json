@@ -1,0 +1,11 @@
+{
+  "name": "metasell-ai",
+  "version": "1.0.0",
+  "description": "Read-only access to your Metasell sales data: calls and call scores, CRM leads, contacts and tasks, manager performance and daily summaries.",
+  "mcpServers": {
+    "metasell": {
+      "httpUrl": "https://mcp.metasell.ai/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
